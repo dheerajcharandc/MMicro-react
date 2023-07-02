@@ -1,0 +1,9 @@
+.Right{
+    width:50%;
+     display: flex;
+     justify-content: space-around; 
+}
+ .picc{
+    margin-top: 40px;
+   margin-left: 220px;
+ }  

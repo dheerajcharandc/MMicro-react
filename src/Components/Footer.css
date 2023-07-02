@@ -1,0 +1,6 @@
+.Footer{
+    min-height: 30vh;
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+}
