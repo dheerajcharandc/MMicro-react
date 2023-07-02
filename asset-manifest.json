@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/MMicro-react/static/css/main.8dd1d28d.css",
+    "main.js": "/MMicro-react/static/js/main.b976b368.js",
+    "static/media/Piic.png": "/MMicro-react/static/media/Piic.80d0140eda0ad1b1457c.png",
+    "index.html": "/MMicro-react/index.html",
+    "main.8dd1d28d.css.map": "/MMicro-react/static/css/main.8dd1d28d.css.map",
+    "main.b976b368.js.map": "/MMicro-react/static/js/main.b976b368.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8dd1d28d.css",
+    "static/js/main.b976b368.js"
+  ]
+}
